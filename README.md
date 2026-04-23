@@ -105,7 +105,7 @@ Cloud-integrated portfolio showcasing backend architecture using AWS
 
 * 📧 [keerthanareddy370@gmail.com](mailto:keerthanareddy370@gmail.com)
 * 🔗 https://www.linkedin.com/in/a-keerthana
-* 🌐 *🔗 [Live Portfolio Link](http://chills-cloud-resume-2026.s3-website-us-east-1.amazonaws.com)*
+* 🌐 *[Live Portfolio Link](http://chills-cloud-resume-2026.s3-website-us-east-1.amazonaws.com)*
 
 ---
 
