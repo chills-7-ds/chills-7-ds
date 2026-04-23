@@ -1,13 +1,114 @@
-👋 Hey, I’m Keerthana
+# 👋 Hey, I'm J A Keerthana
 
-☁️ Currently diving deep into **AWS & AI (Practitioner Level)** — exploring how cloud and intelligence come together in real-world applications
+☁️ Exploring the intersection of **Cloud, AI, and scalable systems**
+🎓 Final-year Computer Science student (graduating soon)
+🚀 Currently preparing for **AWS AI Practitioner certification**
 
-📱 Building projects with Flutter + AWS to solve practical problems (and not just theoretical ones)
+---
 
-🚀 Transitioning from data-focused thinking to **cloud-powered, scalable solutions**
+## 🧠 About Me
 
-💡 Open to collaborating on projects involving cloud, AI, and impactful tech
+* 🌱 Actively learning and building in **AWS, AI & ML**
+* ⚙️ Interested in how systems scale, communicate, and solve real problems
+* 📱 Enjoy turning ideas into working applications — not just concepts
+* 🔍 Transitioning from data-focused thinking to **cloud-powered solutions**
 
-📫 Reach me:
-Email — [keerthanareddy370@gmail.com](mailto:keerthanareddy370@gmail.com)
-LinkedIn — https://www.linkedin.com/in/a-keerthana
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+### ☁️ Cloud & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,vscode" />
+</p>
+
+### ⚙️ AWS Services (Hands-on)
+
+* Cognito
+* S3
+* EC2
+* Lambda
+* DynamoDB
+* API Gateway
+* VPC
+
+---
+
+## 🚀 Projects
+
+### 🍱 Food Waste Management App
+
+A Flutter-based mobile application connecting food donors with NGOs and shelters
+
+**Highlights:**
+
+* AWS Cognito authentication
+* Food listing & claiming system
+* Image upload + location sharing
+* Report generation (PDF & Excel)
+
+🔗 https://github.com/chills-7-ds/food-waste-management-app
+
+---
+
+### ☁️ AWS Cloud Resume Project
+
+Cloud-integrated portfolio showcasing backend architecture using AWS
+
+**Built with:**
+
+* Lambda + API Gateway
+* DynamoDB
+* S3
+
+🔗 *(Add your live portfolio link here)*
+
+---
+
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=chills-7-ds&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chills-7-ds&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* ☁️ Strengthening AWS fundamentals and architecture understanding
+* 🤖 Exploring AI/ML integration with cloud systems
+* 🔐 Upcoming interest: IAM & security (building toward deeper cloud security concepts)
+
+---
+
+## 🌱 What’s Next
+
+* AWS AI Practitioner Certification
+* Exploring IAM-based systems (Sentinel Zero concept)
+* Building more real-world, scalable applications
+
+---
+
+## 📫 Connect With Me
+
+* 📧 [keerthanareddy370@gmail.com](mailto:keerthanareddy370@gmail.com)
+* 🔗 https://www.linkedin.com/in/a-keerthana
+* 🌐 *(Add your portfolio link here)*
+
+---
+
+## ✨
+
+> *“Not rushing to know everything — just building things that teach me faster.”*
