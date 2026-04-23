@@ -68,7 +68,7 @@ Cloud-integrated portfolio showcasing backend architecture using AWS
 * DynamoDB
 * S3
 
-🔗 *(Add your live portfolio link here)*
+🔗 [Live Portfolio Link](http://chills-cloud-resume-2026.s3-website-us-east-1.amazonaws.com)
 
 ---
 
