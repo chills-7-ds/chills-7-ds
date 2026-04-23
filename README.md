@@ -111,4 +111,4 @@ Cloud-integrated portfolio showcasing backend architecture using AWS
 
 ## ✨
 
-> *“Not rushing to know everything — just building things that teach me faster.”*
+> *“If it works, it’s intentional. If it doesn’t, it’s research.”*
